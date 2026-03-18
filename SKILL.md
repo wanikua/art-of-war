@@ -1,9 +1,9 @@
 ---
-name: art-of-war-agents
+name: art-of-war
 description: Apply Sun Tzu's Art of War principles to AI agent organization and task orchestration. Use when planning multi-agent workflows, evaluating whether to deploy agents, assessing task complexity, or optimizing agent collaboration strategies. Maps all 13 chapters to practical agent patterns.
 ---
 
-# Art of War Agents
+# Art of War
 
 Apply **Sun Tzu's 13 chapters** to AI agent organization and orchestration. This skill provides a framework for strategic decision-making about when, how, and which agents to deploy for maximum effectiveness with minimum waste.
 
